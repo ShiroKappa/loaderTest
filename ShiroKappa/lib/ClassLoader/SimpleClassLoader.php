@@ -1,11 +1,5 @@
 <?php
-/**
- * Created by JetBrains PhpStorm.
- * User: shirokappa
- * Date: 12/07/08
- * Time: 21:54
- * To change this template use File | Settings | File Templates.
- */
+
 namespace ShiroKappa\lib\ClassLoader;
 
 class SimpleClassLoader
